@@ -1,0 +1,6 @@
+@MiniSalesHub.API_HostAddress = http://localhost:5107
+
+GET {{MiniSalesHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
